@@ -1,0 +1,20 @@
+todoForm  
+  - state
+  -handlechange
+  -handle submit
+
+
+todoList
+  - entire list
+  - delete function - filter by id
+
+
+todoApp:
+  - todoList
+  - Form 
+
+
+
+rootReducer:
+  - array todos
+
