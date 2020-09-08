@@ -16,5 +16,5 @@ todoApp:
 
 
 rootReducer:
-  - array todos
+  - array of todos
 
